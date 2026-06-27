@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+/*
+  Input styling:
+  makes it easier for user to type
+*/
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+/*
+  Button styling:
+  makes it look clickable
+*/
+button {
+  padding: 10px 15px;
+  cursor: pointer;
+}
