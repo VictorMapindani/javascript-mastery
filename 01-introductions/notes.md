@@ -1,14 +1,14 @@
-# My Notes
+# My Notes - Lesson 1
 
-Today I learned:
+## What I learned
+- JavaScript runs in the browser
+- console.log is for debugging
+- alert shows popups
+- DOM allows JS to modify HTML
 
-- JavaScript is responsible for making websites interactive.
-- JavaScript runs inside the browser.
-- I can inspect my code using Developer Tools.
-- console.log() is useful for debugging.
-- console.table() displays objects in a readable table.
+## Confusing parts
+- How JS connects to HTML
+- What DOM actually means
 
-Questions
-
-- How does JavaScript communicate with HTML?
-- What is the DOM?
+## Real-world understanding
+- Websites use JS to update content dynamically

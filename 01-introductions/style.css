@@ -1,10 +1,4 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    padding: 40px;
-}
-
-h1 {
-    color: #2563eb;
+  font-family: Verdana;
+  font-size: 2em;
 }
